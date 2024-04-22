@@ -8,6 +8,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -b gh-pages -d build",
     "eject": "react-scripts eject",
+    "preinstall": "npm install --force",
     "start": "react-scripts start",
     "test": "react-scripts test"
   },
