@@ -11,12 +11,11 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Rijan",
-  logo_name: "rijan.k()",
+  logo_name: "rijan.k() is awesome!",
   nickname: "rijan / koju",
   full_name: "Rijan Koju",
   subTitle: "Software Engineer 🔥. Always learning.",
-  resumeLink:
-    "",
+  resumeLink: "",
   mail: "mailto:rijan.koju16@gmail.com",
 };
 
@@ -563,8 +562,7 @@ const contactPageData = {
   },
   blogSection: {
     title: "Blogs",
-    subtitle:
-      "",
+    subtitle: "",
     link: "",
     avatar_image_path: "blogs_image.svg",
   },
